@@ -1,7 +1,7 @@
-<h1>
+<h1 style="background-color:##ff6347;">
   CS121 Portfolio
 </h1>
-<p1 style="background-color:##ff6347;">
+<p1>
   Created by Jeremy Escobar during the CS121 course at Ball State for the spring semester.
 </p1>
 
