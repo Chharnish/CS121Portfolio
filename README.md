@@ -8,9 +8,8 @@
   All projects linked here are a part of the course material I've learned from CS121 all in Java
 </p1>
 
-|Projects|Link|
-|---|---|
-|Project 1|Link1|
-|Project 2|Link2|
-|Project 3|Link3|
-|Project 4|Link4|
+| Number | Project          | Description                            |
+|--------|------------------|----------------------------------------|
+|    1   |     Projects     |     Directory of all projects made     |
+|    2   |       Labs       |       Directory of all labs made       |
+|    3   | Class Activities | Directory of all Class activities made |
