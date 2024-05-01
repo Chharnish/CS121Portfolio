@@ -9,7 +9,7 @@
 </p1>
 
 | Number | Project          | Description                            |
-|--------|:------------------:|----------------------------------------|
+|--------|------------------|----------------------------------------|
 |    1   |     [`Projects`](https://github.com/Chharnish/CS121Portfolio/tree/Projects)             |     Directory of all projects made     |
 |    2   |       [`Labs`](https://github.com/Chharnish/CS121Portfolio/tree/Labs)                   |       Directory of all labs made       |
 |    3   | [`Class Activities`](https://github.com/Chharnish/CS121Portfolio/tree/Class-Activities) | Directory of all Class activities made |
