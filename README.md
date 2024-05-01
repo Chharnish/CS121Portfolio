@@ -6,6 +6,7 @@
 </h2>
 <p1>
   All projects linked here are a part of the course material I've learned from CS121 all in Java
+  This branch is specifically all side projects I've worked on during the semester
 </p1>
 
 | Number | Project          | Description                            |
