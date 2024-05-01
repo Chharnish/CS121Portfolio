@@ -1,0 +1,7 @@
+course credits score
+cs121 4 98
+cs124 3 70
+japa102 4 90
+isom150 3 100
+math181 3 80
+edhi200 1 104
