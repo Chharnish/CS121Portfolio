@@ -11,5 +11,5 @@
 | Number | Project          | Description                            |
 |--------|------------------|----------------------------------------|
 |    1   |     Projects     |     Directory of all projects made     |
-|    2   |       Labs       |       Directory of all labs made       |
+|    2   |    >> Labs <<    |       Directory of all labs made       |
 |    3   | Class Activities | Directory of all Class activities made |
