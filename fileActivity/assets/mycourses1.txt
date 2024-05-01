@@ -1,0 +1,5 @@
+course credits score
+japa101 4 90
+eng103 3 80
+isom150 3 100
+japa202 null null
