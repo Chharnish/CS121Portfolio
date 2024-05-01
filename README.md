@@ -1,4 +1,4 @@
-<h1 style="background-color:##ff6347;">
+<h1 style="border:2px solid Tomato;">
   CS121 Portfolio
 </h1>
 <p1>
