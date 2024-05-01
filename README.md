@@ -1,10 +1,12 @@
-<h1 style="border:2px solid Tomato;">
+<h1>
   CS121 Portfolio
 </h1>
-<p1>
+<h2>
   Created by Jeremy Escobar during the CS121 course at Ball State for the spring semester.
+</h2>
+<p1>
+  All projects linked here are a part of the course material I've learned from CS121 all in Java
 </p1>
-
 
 |Projects|Link|
 |---|---|
