@@ -8,6 +8,7 @@
   All projects linked here are a part of the course material I've learned from CS121 all in Java
 </p1>
 <p2>
+  <br>
   This branch is specifically all side projects I've worked on during the semester
 </p2>
 
